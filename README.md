@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhenriwoodcock)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhenriwoodcock)](https://henriwoodcock.github.io)
 
 <!--
 **henriwoodcock/henriwoodcock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
