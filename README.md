@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 📫 How to reach me:
-    - [📧 email](mailto:henriwoodcock@gmail.com)
+    - [📧 Email](mailto:henriwoodcock@gmail.com)
     - [📱 LinkedIn](https://www.linkedin.com/in/henri-woodcock-682338155/)
     - [Ⓜ️ Medium](https://medium.com/@henriwoodcock)
     - [🦉 Twitter](https://twitter.com/henriwoodcock)
