@@ -5,6 +5,8 @@
     - [📱 LinkedIn](https://www.linkedin.com/in/henri-woodcock-682338155/)
     - [Ⓜ️ Medium](https://medium.com/@henriwoodcock)
     - [🦉 Twitter](https://twitter.com/henriwoodcock)
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=henriwoodcock&label=Profile%20views&color=0e75b6&style=flat" alt="henriwoodcock" /> </p>
 <!--
 **henriwoodcock/henriwoodcock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
